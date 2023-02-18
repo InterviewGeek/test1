@@ -1,0 +1,6 @@
+Add Donor Donor $1000
+Add Donor Campaign $1000
+Add Campaign Donor $1000
+Add Campaign Campaign $1000
+Add Donor Donate $1000
+Donate Donate Donor $50
